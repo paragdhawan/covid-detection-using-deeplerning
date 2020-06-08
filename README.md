@@ -8,5 +8,3 @@ Step to Run the notebook:
 1. open the notebook 
 2. from file menu create a copy of notebook.
 3. Run the copy on your browser using google colab. 
-# covid19-detection
-# covid-detection-using-deeplerning
