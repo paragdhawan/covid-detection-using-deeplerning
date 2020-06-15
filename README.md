@@ -1,6 +1,6 @@
 # Covid19-Detection-Using-Deeplearning
 
-Note:- Goggle colab notebook has data set integrated in it vai Kaggle.
+Note:- Google colab notebook has data set integrated in it vai Kaggle.
 
 Link of Colab Notebook:- https://colab.research.google.com/drive/1NT6hXHS0lXZkuGla-Cco9VdWdPMg137K
 
